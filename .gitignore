@@ -1,0 +1,20 @@
+# Ignorar entorno virtual
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Binarios (firmwares, builds, etc.)
+*.bin
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos generados o temporales
+*.log
+*.tmp
+
+# Archivos BAT opcionales
+*.bat
